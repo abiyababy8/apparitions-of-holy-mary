@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url('https://i.pinimg.com/originals/aa/2d/ae/aa2daecdf85cb6c66f7b6509ebf61cef.gif');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment:fixed;
+    background-size: cover;
+    color: white;
+    font-family: "Comic Relief";
+}
+
+.hailMary{
+    background-color: black;
+width: 100%;
+height: 100%;
+}
+.card{
+background-color: black;
+color: white;
+}
